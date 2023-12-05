@@ -8,4 +8,4 @@ Reference: https://github.com/Jack-Cherish/Deep-Learning
 
 Lecturer: Haochao Ying
 
-Creator: Yuyangxu
+Creator: Yuyang Xu
